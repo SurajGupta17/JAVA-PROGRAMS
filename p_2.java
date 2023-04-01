@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class bmi
+class p_2
 {
 public static void main(String args[])
 	{
