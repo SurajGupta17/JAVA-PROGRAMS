@@ -1,3 +1,5 @@
+/*Write a program that creates a Random object and displays the first 100 random integers between 1 and 49 using NextInt(49) methods.*/
+
 import java.util.Random;
 public class prac_11 {
     public static void main(String[] args) {
