@@ -1,3 +1,5 @@
+/*Write a program to implement the operation of stack using array*/
+
 import java.util.Scanner;
 
 class stack{
