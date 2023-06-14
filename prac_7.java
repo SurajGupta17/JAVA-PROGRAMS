@@ -1,3 +1,8 @@
+/*Write a program to find length of string and print second half of the string*/
+
+
+
+
 import java.util.Scanner;
 
 public class prac_7 {
