@@ -1,3 +1,6 @@
+/*Write a program to do the addition of two matrices*/
+
+
 import java.util.Scanner;
 
 import javax.xml.transform.Source;
