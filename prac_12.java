@@ -1,3 +1,6 @@
+/*Assume a vehicle plate number consists of three uppercase letters followed by four digits. Write a program to generate a plate number.*/
+
+
 import java.util.Random;
 public class prac_12 {
     public static void main(String[] args) {
